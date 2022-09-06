@@ -11,7 +11,7 @@ Godot一款创建电子游戏的强大软件，但其选项及特性之多常常
 -   [第一章 使用Godot的优势](foundation/1.md)
 -   [第二章 安装Godot及熟悉软件界面](foundation/2.md)
 -   [第三章 创建并导出第一个场景](foundation/3.md)
--   第四章 转换内置对象创建室内场景
+-   [第四章 转换内置对象创建室内场景](foundation/4.md)
 -   第五章 使用Godot的内置Terrain生成器创建室外场景
 -   第六章 常见问题
 
